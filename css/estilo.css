@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;  
+}
+
+body{
+  background-color: rgb(88, 38, 136);
+  font-family: sans-serif;  
+}
+
+main{
+ width: 50%;
+ height: 500px;
+ background-color: rgba(39, 50, 59, 0.685);
+ margin: 0 auto;
+ text-align: center;
+ padding: 10px;
+ margin-top: 30px;   
+}
+
+#texto{
+  width: 100%;
+  height: 330px; 
+}
+
+h2{
+  font-size: 40px; 
+  color: aliceblue; 
+}
+
+.parra{
+  width: 95%;
+  height: 40px;
+  font-size: 30px;
+  border-radius: 10px;  
+}
+
+#botão{
+  width: 380px;
+  height: 60px; 
+  margin: 0 auto; 
+}
+
+button{
+  width: 380px;
+  height: 60px;  
+  font-size: 40px; 
+  color: aliceblue;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer; 
+}
